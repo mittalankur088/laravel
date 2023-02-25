@@ -16,7 +16,7 @@
 <a href=companies> 課題3 </a>
 <h5>メール一覧</h5>
 </div>
-<div class="pull-right mb-2">
+<div class="pull-right mb-2">am
 <a class="btn btn-success" href="{{ route('companies.create') }}"> 登録</a>
 </div>
 </div>
